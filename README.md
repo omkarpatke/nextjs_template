@@ -1,0 +1,1 @@
+## NextJS Biolerplate Code
